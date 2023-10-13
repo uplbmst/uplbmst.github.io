@@ -320,11 +320,11 @@
     display: table-cell;
     vertical-align: middle;
 }
+
 .menu-logo img{
-    max-height: 60px;
+    max-height: 120px;
 	width: auto;
-	max-width: 140px;
-	
+	max-width: 210px;
 }
 .menu-logo span{
     font-size: 20px;
