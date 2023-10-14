@@ -1,0 +1,6 @@
+$ echo 'uplbmst.edu.me' > CNAME
+$ git add .
+$ git commit -m 'Add a custom domain'
+...
+$ git push
+...
