@@ -1,23 +1,10 @@
-@font-face{
-	font-family: Optima;
-	src:url(OptimaLTStd.otf)
-}
 
-@font-face{
-	font-family: Avenir;
-	src:url(AvenirLTStd-Roman.otf)
-}
-
-@font-face{
-	font-family: OptimaBold;
-	src:url(OptimaLTStd-Bold.otf)
-}
 /*=================  
 	Basic 
 ====================*/
 body {
     background-color: #fff;
-    font-family: Avenir;
+    font-family: Rubik;
     font-size: 16px;
     font-weight: 400;
     color:#505050;
@@ -50,7 +37,7 @@ iframe{border:0;}
 /*=================  
 	Headings
 ====================*/
-h1, h2, h3, h4, h5, h6 { color: #111111; font-family: Optima; margin-top:0; }
+h1, h2, h3, h4, h5, h6 { color: #111111; font-family: rubik; margin-top:0; }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: inherit; }
 h1 {font-size: 36px; line-height: 45px; margin-bottom: 25px; font-weight: 700; }
 h2 {font-size: 32px; line-height: 45px; margin-bottom: 25px; font-weight: 700; }

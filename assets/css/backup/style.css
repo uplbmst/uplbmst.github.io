@@ -320,11 +320,11 @@
     display: table-cell;
     vertical-align: middle;
 }
+
 .menu-logo img{
     max-height: 120px;
 	width: auto;
 	max-width: 210px;
-	
 }
 .menu-logo span{
     font-size: 20px;
@@ -401,7 +401,7 @@
     font-weight: 400;
     text-transform: uppercase;
     position: relative;
-	font-family: Optima;
+	font-family: Rubik;
 }
 .menu-links .nav > li > a {
     border-radius: 0px;
@@ -484,7 +484,7 @@
     -moz-transition: all 0.15s linear;
     -o-transition: all 0.15s linear;
 	font-weight: 400;
-	font-family: Optima;
+	font-family: Rubik;
 }
 .menu-links .nav > li .sub-menu li a:hover {
     background-color: #F2F2F2;
